@@ -597,10 +597,3 @@ void allocate_hotels()
     h[5].price_three=70;
 }
 
-
-
-
-
-
-
-
