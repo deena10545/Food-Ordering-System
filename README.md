@@ -15,7 +15,7 @@ A project on C language with functionalities like login, signup, order by food, 
   * Phone number must have exactly 10 digits and should contains only numbers.
 ### LOGIN:
 * E-mail and password are checked. Once verified, user are allowed to choose the food either by searching foods or searching the hotels.
-### ORDER_BY-FOOD:
+### ORDER_BY_FOOD:
 * Select the food you'd like to order in the list.
 * Enter the number of items to order.
 * Once you selected all the foods, choose cart.
